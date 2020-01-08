@@ -117,6 +117,11 @@ def processSpeech():
         except sr.RequestError as e:
             print("Sphinx error; {0}".format(e))
 
+'''
+
+Erase Comment if placed in base dir of GPT2 with model '355M' installed
+ 
+
 
 def gpt2():
 
@@ -225,3 +230,4 @@ if __name__ == '__main__':
   p2.start()
   p1.join()
   p2.join()
+'''
