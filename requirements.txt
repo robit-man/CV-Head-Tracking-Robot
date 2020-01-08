@@ -1,0 +1,8 @@
+speech_recognition==3.8.1
+tensorflow-gpu==1.10.0
+pyttsx3==2.71
+numpy==1.14.5
+urllib3==1.24.3
+serial==0.0.97
+fire==0.2.1
+opencv-python==4.1.2.30
