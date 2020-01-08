@@ -1,1 +1,0 @@
-python36 gpt2_cv2_serial.py
