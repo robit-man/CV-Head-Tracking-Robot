@@ -1,5 +1,5 @@
 speech_recognition==3.8.1
-tensorflow-gpu==1.10.0
+tensorflow-gpu==1.15.2
 pyttsx3==2.71
 numpy==1.14.5
 urllib3==1.24.3
